@@ -21,6 +21,8 @@ A text editor is a software that allows you to write and manage code to create a
 
 In a text editor, you simply edit and manage text. IDE can do what a text editor can do but even more.
 
+## Linux Tutorial
+
 #### The Command Line
 
 When using a terminal there will always be a prompt to start with. Example: user@bash
