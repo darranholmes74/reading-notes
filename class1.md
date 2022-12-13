@@ -1,4 +1,4 @@
-##Class 1 - Reading Assignment
+# Class 1 - Reading Assignment
 
 Markdown for GitHub is a formatting syntax that is excellent to learn especially if you are just starting to learn code. Using markdown allows the user to change the format of a text with the use of one or more symbols.
 If you wanted to make a text bold and italicized at the same time you can use symbols *** on both sides of the word to do this, for example:
