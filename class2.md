@@ -4,14 +4,14 @@
 
 ## Choosing A Text Editor
 
-### What is a text editor?
+#### What is a text editor?
 
 A text editor is a software that allows you write and manage code to create a varity of applications like a website.
 There are many different feature in a text editor that can my coding less time consuming and easier to understand. Some of these
 tools are called code completion,syntax highlighting, and variety of themes to name a few. Most computers come with a basic text editer
 like notepad on windows.
 
-### The Top Third Party Text Editors
+#### The Top Third Party Text Editors
 
 1. NotePad++
 2. TextWrangler
@@ -20,14 +20,14 @@ like notepad on windows.
 5. Atom
 6. ect.
 
-### The Difference Between Text Editors and IDEs
+#### The Difference Between Text Editors and IDEs
 
 In a text editor you simply edit and manage text.
 IDE can do what a text editor can do but even more.
 
 ## Linux Tutorial
 
-### The Command Line
+#### The Command Line
 
 When using a terminal there will aways be a promt to start with. Example: user@bash
 
@@ -40,7 +40,7 @@ The outputs are what is produced from running the command.
 
 Bash - Bourne again shell.
 
-### Basic Navigation
+#### Basic Navigation
 
 pwd - Print Working Directory
 
@@ -49,7 +49,7 @@ There are 2 types of paths, absolute and relative. A absolute path is a specifie
 in a file or directory that is in relation to the root directory indicated by and (/) in the beginning.
 A relative path is a specified location in the file/directory in relation to the current location in the system.
 
-### More About Files
+#### More About Files
 
 To the terminal everything is a file.
 There is a file command that tells you what type of file a path is.
