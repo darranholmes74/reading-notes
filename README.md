@@ -1,6 +1,6 @@
 # reading-notes
 
-Hi, my name is Darran! You can find me on: [My Github](https://darranholmes74.github.io/reading-notes)
+Hi, my name is Darran! You can find me on: [My GitHub](https://darranholmes74.github.io/reading-notes)
 
 ![FA2A3CE2-3B24-45F3-8D59-BD594EA36BEF_1_105_c](https://user-images.githubusercontent.com/120355254/207199818-9a618d30-60e9-46ec-845b-63ab8aadd01f.jpeg)
 
