@@ -1,6 +1,11 @@
 ##Class 1 - Reading Assignment
 
-Markdown for GitHub is a formating syntax that is exicilent to learn especially if you are just starting to learn code. Using markdown allows the user to change the format of a text with the use of one or more symbles.
-If you wanted to make a text bold and italicized at the same time you can use symbles *** on both side of the word to do this, for example, '***lemon***'.
-It only take a few symbels to make this change.
+Markdown for GitHub is a formatting syntax that is excellent to learn especially if you are just starting to learn code. Using markdown allows the user to change the format of a text with the use of one or more symbols.
+If you wanted to make a text bold and italicized at the same time you can use symbols *** on both sides of the word to do this, for example:
+```
+***lemon***
+```
+It only takes a few symbols to change the word lemon to ***lemon*** as shown above.
+
+With more practice markdown on GitHub even allows you to create full websites. In conclusion, I believe markdown will be a great skill to learn for quickly formating texts for stylized writing and creating websites in the future. It is simple to use and a nice starter language for beginners.
 
