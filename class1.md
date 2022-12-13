@@ -5,10 +5,15 @@ If you wanted to make a text bold and italicized at the same time you can use sy
 ```
 ***lemon***
 ```
-It only takes a few symbols to change the word lemon to ***lemon*** as shown above.
+It only takes a few symbols to change the word lemon to ***lemon*** as shown above. If you wanted to make a word(s) bold or italicized separately and can use the symbols ** ** for bold or * * for italic for example:
 
-With more practice markdown on GitHub even be used to help create basic websites. In conclusion, I believe markdown will be a great skill to learn for quickly formating texts for stylized writing and creating websites in the future. It is simple to use and a nice starter language for beginners.
+```
+**bold** or *italic*
+```
+There are so many different formats to uses with markdown and with more practice using it on GitHub it can even be used to help create basic websites. In conclusion, I believe markdown will be a great skill to learn for quickly formating texts for stylized writing and creating websites in the future. It is simple to use and a nice starter language for beginners.
 
 ## Things I want to know more about
 
 A question that I had while reading this material was, how often is markdown used outside of GitHub? I have heard a lot about HTML and CSS, but have never heard of markdown until this class. This surprises me becasue of how simple it is to use initially.
+
+[Link to Class 1 page](https://darranholmes74.github.io/reading-notes/class1)
