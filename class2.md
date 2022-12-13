@@ -2,6 +2,9 @@
 
 [Link to Bio](https://github.com/darranholmes74)
 
+Learning about terminals and text editors is essential when learning software development because it is the main tools
+a programmer will use for any project.
+
 ## Choosing A Text Editor
 
 #### What is a text editor?
@@ -48,3 +51,7 @@ A relative path is a specified location in the file/directory with the current l
 To the terminal, everything is a file. There is a file command that tells you what type of file a path is.
 Use quotes to tell the terminal to view a file as a single command.
 Use a backslash (\) to nullify the meaning of the next character.
+
+## Things I want to know more about
+
+Something I was wondering while learning about the terminal is how much making an error why using the terminal will affect a computer and whether it is possible to recover from the error or if is everything permanent.
