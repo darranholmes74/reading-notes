@@ -6,12 +6,9 @@
 
 #### What is a text editor?
 
-A text editor is a software that allows you write and manage code to create a varity of applications like a website.
-There are many different feature in a text editor that can my coding less time consuming and easier to understand. Some of these
-tools are called code completion,syntax highlighting, and variety of themes to name a few. Most computers come with a basic text editer
-like notepad on windows.
+A text editor is a software that allows you to write and manage code to create a variety of applications like a website. There are many different features in a text editor that can my coding less time-consuming and easier to understand. Some of these tools are called code completion, syntax highlighting, and a variety of themes to name a few. Most computers come with a basic text editor like notepad on windows.
 
-#### The Top Third Party Text Editors
+#### The Top Third-Party Text Editors
 
 1. NotePad++
 2. TextWrangler
@@ -22,19 +19,15 @@ like notepad on windows.
 
 #### The Difference Between Text Editors and IDEs
 
-In a text editor you simply edit and manage text.
-IDE can do what a text editor can do but even more.
-
-## Linux Tutorial
+In a text editor, you simply edit and manage text. IDE can do what a text editor can do but even more.
 
 #### The Command Line
 
-When using a terminal there will aways be a promt to start with. Example: user@bash
+When using a terminal there will always be a prompt to start with. Example: user@bash
 
-A command (ls) must be entered followed with a command line argument (-l/home/ryan)
+A command (ls) must be entered followed by a command line argument (-l/home/ryan)
 
-(-l) is the option
-Options are used to modify the behaviour of command which usually starts with a (-).
+(-l) is the options Options are used to modify the behavior of a command which usually starts with a (-).
 
 The outputs are what is produced from running the command.
 
@@ -44,15 +37,12 @@ Bash - Bourne again shell.
 
 pwd - Print Working Directory
 
-A file or directory is refering to a path.
-There are 2 types of paths, absolute and relative. A absolute path is a specified location 
-in a file or directory that is in relation to the root directory indicated by and (/) in the beginning.
-A relative path is a specified location in the file/directory in relation to the current location in the system.
+A file or directory is referring to a path. There are 2 types of paths, absolute and relative. An absolute path is a
+specified location in a file or directory that is with the root directory indicated by and (/) in the beginning.
+A relative path is a specified location in the file/directory with the current location in the system.
 
 #### More About Files
 
-To the terminal everything is a file.
-There is a file command that tells you what type of file a path is.
+To the terminal, everything is a file. There is a file command that tells you what type of file a path is.
 Use quotes to tell the terminal to view a file as a single command.
-Use backslash (\) to nullify the meaning of the next character.
-
+Use a backslash (\) to nullify the meaning of the next character.
