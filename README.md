@@ -8,7 +8,7 @@ Hi, my name is Darran! You can find me on: [My GitHub](https://github.com/darran
 [Link to reading notes page](https://darranholmes74.github.io/reading-notes/)
 
 
-### 102 Directory
+### 102 Intro to Software Development
 ___
 
 - [class 1](102_ReadingNotes/class1.md)
@@ -27,7 +27,7 @@ ___
 
 - [class 8](102_ReadingNotes/class8.md)
 
-### 201 Directory
+### 201 - Foundations of Software Development
 
 ---
 
@@ -61,3 +61,13 @@ ___
 - [class 14](201_ReadingNotes/class14.md)
 
 - [class 15](201_ReadingNotes/class15.md)
+
+### 301 - Intermediate Software Development
+
+---
+
+### 401 - Advanced Software Development
+
+---
+
+
