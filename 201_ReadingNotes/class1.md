@@ -1,6 +1,10 @@
 # Class 1 - Reading Assignment
 
-1. 
+1. HTTP is a form of transporation,
+that we use to send information,
+it transprots data to the computers,
+to show websites to the users.
+
 
 2. The browser parses the HTML files first and finds a ```<link>``` file referencing any CSS stylesheet and ```<script>``` referencing a script. The browser sends a request to the server for the CSS and JavaScript files. The browser creates an in-memory CSSOM structure from the parsed CSS and compiles and executes the parsed JavaScript. The browser builds the DOM tree and add the CSS style and generates a visual representation fo the page for the user to interact with.
 
