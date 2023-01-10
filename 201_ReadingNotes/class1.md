@@ -1,8 +1,11 @@
 # Class 1 - Reading Assignment
 
 1. HTTP is a form of transporation,
+
 that we use to send information,
+
 it transprots data to the computers,
+
 to show websites to the users.
 
 
