@@ -23,7 +23,7 @@ to show websites to the users.
 
 2. An HTML element is a building block of an HTML document used to structure a webpage. Elements contain an opening tag, attributes, content, and closing tag.
 
-3. Articles and sections are similar execpt for the fact that sections are used more for grouping single parts of the page that constitutes one single piece.
+3. Articles and sections are similar except for the fact that sections are used more for grouping single parts of the page that constitutes one single piece.
 
 4. Header, main content, footer, navigation, sidebar, form, images, links.
 
@@ -41,7 +41,7 @@ to show websites to the users.
 
 1. The ```<span>``` tag will look the same but will have no semantic value.
 
- 2. The importance of semantics in HTML is the semantic tell the browser what to do with the content inside.
+ 2. The importance of semantics in HTML is the semantics tell the browser what to do with the content inside.
 
 ## What is JavaScript?
 
