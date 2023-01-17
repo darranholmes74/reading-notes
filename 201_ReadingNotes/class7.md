@@ -20,6 +20,6 @@
 
 ##  Object Prototypes Using A Constructor
 
-1. I previously worked at gun holster company were we manufactured and shipped out hosters. A the warhouse we had plastic models or our "prototypes" of each gun in order to make the multiple hosters. Each holster would be different but followed the blueprint of the original prototype. Inheritance would be like if the company create a new plactic model for a new gun using the blueprint of a previous plasic model. They would use the exact mold from the old model but just add on to it.
+1. I previously worked at a gun holster company where we manufactured and shipped out hosters. At the warehouse, we had plastic models or our "prototypes" of each gun in order to make the multiple hosters. Each holster would be different but followed the blueprint of the original prototype. Inheritance would be like if the company creates a new plastic model for a new gun using the blueprint of a previous plastic model. They would use the exact mold from the old model but just add to it.
 
-## Things I want to Know more About
+## Things I want to know more About
