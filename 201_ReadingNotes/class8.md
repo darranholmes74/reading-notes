@@ -4,7 +4,7 @@
 
 1. Flexbox is designed for one-dimensional content. Explain what this means.
 
-It excels at taking a bunch of items which have different sizes, and returning the best layout for those items.
+It excels at taking a bunch of items that have different sizes and returning the best layout for those items.
 
 2. Explain the difference between the main axis and cross axis.
 
@@ -25,7 +25,7 @@ Making all columns in a multiple-column layout adopt the same height even if the
 
 2. How does this topic connect with your long term goals?
 
-This connect with my long term goals because it will make some aspects of working in CSS for sidebars much easier in the future. Rather then dealing with float and positioning.
+This connects with my long-term goals because it will make some aspects of working in CSS for sidebars much easier in the future. Rather than dealing with float and positioning.
 
 
 ## Things I want to know more About
