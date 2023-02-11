@@ -66,6 +66,69 @@ ___
 
 ---
 
+
+- [class 1](301_ReadingNotes/class1.md)
+
+- [class 2](301_ReadingNotes/class2.md)
+
+- [class 3](301_ReadingNotes/class3.md)
+
+- [class 4](301_ReadingNotes/class4.md)
+
+- [class 5](301_ReadingNotes/class5.md)
+
+- [class 6](301_ReadingNotes/class6.md)
+
+- [class 7](301_ReadingNotes/class7.md)
+
+- [class 8](301_ReadingNotes/class8.md)
+
+- [class 9](301_ReadingNotes/class9.md)
+
+- [class 10](301_ReadingNotes/class10.md)
+
+- [class 11](301_ReadingNotes/class11.md)
+
+- [class 12](301_ReadingNotes/class12.md)
+
+- [class 13](301_ReadingNotes/class13.md)
+
+- [class 14](301_ReadingNotes/class14.md)
+
+- [class 15](301_ReadingNotes/class15.md)
+
+
+
+A High Level Overview Of React
+
+### What is React?
+ 
+React is a agnostic user interface library.
+
+### What is a component?
+
+code that fills a part of user interface that is being built.
+
+### What is the dataflow of React?
+
+Data flows down one way through a React app.
+
+### How do we make a React element a DOM element?
+
+React does not become an element until it is passed through DOM.
+
+### React is a User Interface library.
+
+
+
+### Which direction does data flow in React?
+
+Data flows down one way through a React app.
+
+### Every component manages its own state.
+
+
+
 ### 401 - Advanced Software Development
 
 ---
