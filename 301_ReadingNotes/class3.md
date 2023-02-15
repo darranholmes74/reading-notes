@@ -50,7 +50,7 @@ objectFour.laugh() // 😂😂😂😂😂
 
 3. using array.map function and an if statement.
 
-4. this.props.increment() and pass through the name paramiter.
+4. this.props.increment() and pass through the name parameter.
 
 ## Things I would like to know more about
 
