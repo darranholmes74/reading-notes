@@ -10,7 +10,7 @@
 
 1. Diversity efforts are most successful when they’re driven by a commitment from company leaders.
 
-2. They are smarter and more creative creative.
+2. They are smarter and more creative.
 
 3. They can understand the user better.
 
