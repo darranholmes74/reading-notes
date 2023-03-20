@@ -134,3 +134,34 @@ Data flows down one way through a React app.
 ---
 
 
+- [class 1](401_ReadingNotes/class1.md)
+
+- [class 2](401_ReadingNotes/class2.md)
+
+- [class 3](401_ReadingNotes/class3.md)
+
+- [class 4](401_ReadingNotes/class4.md)
+
+- [class 5](401_ReadingNotes/class5.md)
+
+- [class 6](401_ReadingNotes/class6.md)
+
+- [class 7](401_ReadingNotes/class7.md)
+
+- [class 8](401_ReadingNotes/class8.md)
+
+- [class 9](401_ReadingNotes/class9.md)
+
+- [class 10](401_ReadingNotes/class10.md)
+
+- [class 11](401_ReadingNotes/class11.md)
+
+- [class 12](401_ReadingNotes/class12.md)
+
+- [class 13](401_ReadingNotes/class13.md)
+
+- [class 14](401_ReadingNotes/class14.md)
+
+- [class 15](401_ReadingNotes/class15.md)
+
+
