@@ -9,3 +9,6 @@ Most of this for me was a good review. We have been using the command line in 10
 ## Learn SQL
 
 My understanding of SQL is way deeper now that I did the Learn SQL exercises. I like the structure of SQL a little more than noSQL in that it has a set stucture to follow. It makes it easier to select a column of data and update it much easier. Learning the different way to filter and show only the data you want is also very useful.
+
+
+![SQL](SQL_img.png)
