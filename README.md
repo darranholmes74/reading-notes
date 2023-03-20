@@ -135,6 +135,8 @@ Data flows down one way through a React app.
 
 - [401 prework](401_ReadingNotes/401_prework.md)
 
+- [prep data structures](prep_data_structures.md)
+
 - [class 1](401_ReadingNotes/class1.md)
 
 - [class 2](401_ReadingNotes/class2.md)
