@@ -175,3 +175,4 @@ Data flows down one way through a React app.
 
 - [class 18](401_ReadingNotes/class18.md)
 
+- [class 19](401_ReadingNotes/class19.md)
