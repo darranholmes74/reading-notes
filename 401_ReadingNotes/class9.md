@@ -5,7 +5,7 @@
 
 An example of a common dunder method would be:
 
-__str__
+```__str__```
 
 
 2. The ethical issue was with not crediting people and still code from other devs. The way to avoid this in the future is to always credit people if you use their work.
@@ -15,12 +15,15 @@ __str__
 
 Here is an example code of this:
 
-```import statistics
+```
+import statistics
 
 data = [10, 15, 12, 17, 14, 11, 16]
 mean_value = statistics.mean(data)
 
-print("Mean:", mean_value)```
+print("Mean:", mean_value)
+
+```
 
 
 ### Things I want to know more about
