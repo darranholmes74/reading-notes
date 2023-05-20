@@ -15,3 +15,5 @@
 - URLs: URLs map user requests to specific views.
 
 - Settings: The settings file contains configuration settings for the Django project.
+
+### Things I want to know more about
